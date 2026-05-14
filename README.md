@@ -5,7 +5,7 @@ I'm md sohail alam ,<br>currently minding B.TECH CSE with AIML<br>learning data 
 ## 🌐 Socials:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shaikh_sohail408)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sohail-alam-538a0733a/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-sohail-alam-538a0733a)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdsohail.alam0805@gmail.com)
 
 

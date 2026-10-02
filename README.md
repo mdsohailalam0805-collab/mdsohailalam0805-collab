@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Md%20Sohail%20Alam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20ML%20Enthusiast&descAlignY=65&descSize=22" width="100%" />
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,21,31&height=180&section=header&text=Md%20Sohail%20Alam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20and%20ML%20Enthusiast&descFontSize=16&descFontAlignY=62" width="100%" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Md+Sohail+Alam;AI+%26+ML+Enthusiast" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&size=28&duration=3000&pause=1000&color=CF4646&center=true&vCenter=true&width=650&lines=Md+Sohail+Alam;AI+and+ML+Enthusiast" alt="Typing Animation" />
 </p>
 
 ## 💫 ᴀʙᴏᴜᴛ ᴍᴇ

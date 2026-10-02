@@ -1,29 +1,53 @@
-# 👋 Hi, I'm Md Sohail Alam
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Md+Sohail+Alam;AI+%26+Machine+Learning+Enthusiast;Python+%7C+Machine+Learning+%7C+Deep+Learning;Building+Practical+AI+Projects" alt="Typing Animation" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Md%20Sohail%20Alam&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=AI%20%26%20ML%20Enthusiast&descAlignY=65&descSize=22" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdsohailalam0805-collab&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Md+Sohail+Alam;AI+%26+ML+Enthusiast" alt="Typing Animation" />
 </p>
 
-## 💫 About Me
+## 💫 ᴀʙᴏᴜᴛ ᴍᴇ
 
-I am **Md Sohail Alam**, a B.Tech CSE student specializing in **Artificial Intelligence & Machine Learning**.
+### 👋 Hi, I'm **Md Sohail Alam**
 
-I enjoy turning concepts into practical projects and continuously improving my skills through hands-on learning and problem solving.
+🎓 **B.Tech CSE Student** · *Artificial Intelligence & Machine Learning*
 
-* 🐍 **Programming:** Python, SQL
-* 🤖 **Machine Learning:** Scikit-learn, Data Science
-* 🧠 **Deep Learning & NLP:** TensorFlow, Keras, PyTorch
-* 📊 **Data & Visualization:** NumPy, Pandas, Matplotlib
-* 🛠️ **Development:** FastAPI, Flask, Streamlit, OpenCV
-* 🗄️ **Databases:** MySQL, SQLite
-* 🚀 **Focus:** Building practical, end-to-end AI/ML projects
-* 📚 **Currently Improving:** Data Structures & Algorithms and problem-solving
+> 💡 I enjoy turning **ideas into practical projects**, exploring new technologies, and continuously improving through **hands-on learning and problem solving**.
 
-> **Learn → Build → Practice → Improve**
+<br>
+
+### 🧩 ᴡʜᴀᴛ ɪ ᴡᴏʀᴋ ᴡɪᴛʜ
+
+|     | Area                     | Technologies                         |
+| --- | ------------------------ | ------------------------------------ |
+| 🐍  | **Programming**          | Python · SQL                         |
+| 🤖  | **Machine Learning**     | Scikit-learn · Data Science          |
+| 🧠  | **Deep Learning & NLP**  | TensorFlow · Keras · PyTorch         |
+| 📊  | **Data & Visualization** | NumPy · Pandas · Matplotlib          |
+| 🛠️ | **Development**          | FastAPI · Flask · Streamlit · OpenCV |
+| 🗄️ | **Databases**            | MySQL · SQLite                       |
+
+<br>
+
+### 🚀 ᴡʜᴀᴛ ɪ'ᴍ ᴅᴏɪɴɢ
+
+🔹 Building **practical, end-to-end AI/ML projects**
+🔹 Strengthening my **DSA & problem-solving skills**
+🔹 Learning by **building, experimenting, and improving**
+
+<br>
+
+### 🌱 ᴍʏ ʟᴇᴀʀɴɪɴɢ ᴍɪɴᴅꜱᴇᴛ
+
+<p align="center">
+
+**🟢 Learn**   →   **🔵 Build**   →   **🟣 Practice**   →   **🟠 Improve**
+
+</p>
+
+<p align="center">
+  <i>Always learning. Always building. Always improving. 🚀</i>
+</p>
 
 ---
 
@@ -123,3 +147,7 @@ I enjoy turning concepts into practical projects and continuously improving my s
 <p align="center">
   <b>Learn → Build → Practice → Improve 🚀</b>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mdsohailalam0805-collab&label=Profile%20Views&color=36BCF7&style=flat" alt="Profile Views" />
+</p>
+
